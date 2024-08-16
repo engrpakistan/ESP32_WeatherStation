@@ -11,7 +11,7 @@
 
  Attribution:
  If you use or modify this code, please give appropriate credit to the original author.
- Link to the original repository: https://github.com/engrpakistan
+ Link to the original repository: https://github.com/engrpakistan/ESP32_WeatherStation
 
  Disclaimer:
  This code is provided "as-is" without any warranties. Use it at your own risk.
@@ -29,7 +29,7 @@ LOPAKA                👉https://lopaka.app/
 
 ----------------------------------------------  CODE AND WIRING DIAGRAM ---------------------------------------------
 
-GITHUB LINK 👉 https://github.com/engrpakistan
+GITHUB LINK 👉 https://github.com/engrpakistan/ESP32_WeatherStation
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
